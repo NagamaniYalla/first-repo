@@ -1,3 +1,2 @@
 # first-repo
-First Assignment repo 
-Nagamani Assignment 
+Making first changes in the VS code
